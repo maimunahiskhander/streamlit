@@ -76,7 +76,7 @@ st.subheader('Exploratory Data Analysis')
 st.dataframe(df)
 
 # Compute mean values for each species
-groupby_species_mean = df.groupby('species', as_index=False).mean()
+groupby_species_mean = df.groupby('species', as_index=False).mean(numeric_only=True)
 groupby_species_mean.columns = ['species', 'Value']
 
 # Display the computed mean values
