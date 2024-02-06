@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "graceful-fold-413507",
+  "private_key_id": "8759f161b41b50607a78b31da479a1722073be61",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCWp3lbHDH9QqMY\n9/6CJOgYUn5TmxFCzWSnw2QkzQD8HcBISZYWBqgo9G13ZMdl8On/um3CWgmg8KkQ\nWgSfNLBukNyWghL27nfxBT/ksarglACNc198HCLsT006HJdTIT5+b8rHFlNDIXOM\nZX+waI+34ihVnsNffJrSICWMf9ImoIu8xUp8/rykhLi0ZPdDTKFKJvGgYz7lbv0Y\nO+qFmEN3uAtiDBUn4d3rLio/Q/A9q9hE6jEG05RmNho4PXBUho8UOvR+BHq5z6qR\nxdzjK5YKFBE5b2+sM3mu774VP0uf+BWSc0sjO1sjnaeNyqdveo2sf/5ZdvRVnJRZ\nLl9QL9XRAgMBAAECggEABgMP58/G7oOt84cHlbtetOqR1pWt4vV3ioeH49beFUsj\n2B6lPSLHeIu5VJYY31uouUcZlM04BiXXpIROTxyKQxdH0XL5lveqoXUjeOWRwdC8\nk7VJC0n29AKXVkLVOechODV1qThqwTD0DGQk7AeRxXV8EfkG2rTwjrZJ5hxYHA9x\ny55IMkZLEioWjM/O/hp/ee2dY+YQFCJ1qFc8H4qSASY9xTyrzn+eLrxKZLjncxCY\nOeMjitYtrqY8NSC5uIY0BJKN6ogNZl0dAM/xdsQr0q1Fsnv+uqZlOGuF3M535E37\nXPGeVPFJQqwFS8cHFXuUrPcD96ExngyaSQ6i9OJ6uwKBgQDLMevW2ItMwcBmmP+1\nZ/i0Q2SWu28vCKdPx3eT01AWFMru3VaPBQ7/OMpAXLRR2tqoFW9v5r93GH2tbj8h\nekbwZBgKYdPLp6XqJVynVmFHEacFkuPiYdOnbdg4bbUoFsfyhOKU61c2//YE6NTB\nk0UBXFkQV7sqjUwFM4eEz+3knwKBgQC9ziNdGAP9bDE/DvpYpLBmeu48Pr0SdOZu\n891Sk+igcu0PffDtKdv5oTRHmW5Uod7koSDGbt/XfSnv7g0agh6tYg5Kh1u7GXlO\nc+8PZy3g8UBdAemHzfWbzw+Q0f/TpPXyeEqq1AlRW1B7L9kVjIspsF/Y1GgU6knt\nzmn/KrY/jwKBgQC0dmDLzkRhZk6XkFjCZ1Xl21jR2iPT9O6Ll07nNiyRf+P/owqG\nOOrp1ykhYnQvopzB3U+8ZYY0osazqg9djzjDtVH4nou4+usK+iXA5KG+ubnJ5HyK\nCXIt6Au5ig3zTdBE3qpRsnYh/dAk6hhS15XYsIjVT+WF1DnpAKviU70nZwKBgFNw\nLSediRN83mFEKlWRgGJspBIj2mYksbAQ0DifAOKX4xKuYJ1Bi4w/i4X2MwRNbHjB\nRHE3CHvob+kjkusWTHoX4wRsYKztU+BjIrJ4vzhllc/NKWYj6lamPceCKZ5WpDAF\nJX3XXIlBRS4CKMJKWFrpSBk/tsmK/RjnZr1ff2KNAoGAf7IMSM/aYAeDm6Ak3Hym\nzuTSW6zYdrhLmPWMq5XlRO0dtR23w4D84Rrs0SSMJBgGcJC+nOHni/iNrO+sY0FA\nkl1aX3W2yrUlHhdalpvLvWZXURpmNo/RNfUn4vBn3pNp5rJmPJql2UlMFsi4MOcY\nKVMXj8tmb2SuFo3tX8B6lBI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "streamlit-test@graceful-fold-413507.iam.gserviceaccount.com",
+  "client_id": "100034509523850051398",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/streamlit-test%40graceful-fold-413507.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
