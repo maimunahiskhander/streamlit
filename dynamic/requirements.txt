@@ -1,5 +1,5 @@
 streamlit
-pandas == 1.2.3
+pandas
 scikit-learn
 gspread
 oauth2client
